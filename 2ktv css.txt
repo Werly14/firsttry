@@ -1,5 +1,5 @@
 head {
-background image: url"http://download.gamezone.com/uploads/image/data/1170455/NBA2K_TV_logo.JPG"
+background image: url"http://download.gamezone.com/uploads/image/data/1170455/NBA2K_TV_logo.JPG";
 background-repeat: no-repeat;
 background-position: center;
 background-attachment:fixed;
@@ -8,8 +8,8 @@ background-attachment:fixed;
 	font-size:48px;
 	font-style: bold;
 	padding-top:100px;
-	position:static
-	margin:auto
+	position:static;
+	margin:auto;
 	text-align: center-top;
 	word-spacing:0.5em;
 	
@@ -21,14 +21,14 @@ background-repeat:no-repeat;
 background-position:center;
 background-attachment:fixed;
 	border: 1px solid #FF0000;
-	box-sizing: border-box;;
+	box-sizing: border-box;
 	color: #000000;
 	font-family: "Impact", sans-serifserif;
 	font-size:48px;
 	font-style: bold;
 	padding-top:100px;
-	position:static
-	margin:auto
+	position:static;
+	margin:auto;
 	text-align: center-top;
 	word-spacing:0.5em;
 	line-height: 24 px;
@@ -49,8 +49,8 @@ background-attachment:fixed;
 	font-size:48px;
 	font-style: bold;
 	padding-top:100px;
-	position:static
-	margin:auto
+	position:static;
+	margin:auto;
 	text-align: center-top;
 	word-spacing:0.5em;
 	line-height: 24 px;
@@ -71,15 +71,15 @@ background-attachment:fixed;
 	font-size:48px;
 	font-style: bold;
 	padding-top:100px;
-	position:static
-	margin:auto
+	position:static;
+	margin:auto;
 	text-align: center-top;
 	word-spacing:0.5em;
 	line-height: 24 px;
 	margin: auto;
 	padding-bottom:30 px;
 p {
-	background-color: #FFFF
+	background-color: #FFFF;
 	border: 3px solid #FF0000;
 	border radius:100%;
 	color: #000000;
