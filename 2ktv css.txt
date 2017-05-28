@@ -1,0 +1,92 @@
+head {
+background image: url"http://download.gamezone.com/uploads/image/data/1170455/NBA2K_TV_logo.JPG"
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+	color: #FF0000;
+	font-family: "Impact", sans-serifserif;
+	font-size:48px;
+	font-style: bold;
+	padding-top:100px;
+	position:static
+	margin:auto
+	text-align: center-top;
+	word-spacing:0.5em;
+	
+	}
+	
+h2 {
+background-image: url"http://oyster.ignimgs.com/wordpress/stg.ign.com/2017/05/2KSMKT_NBA2K18_LEG_AGN_FOB_NOAM_ESRB_RP-720x1021.jpg";
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+	border: 1px solid #FF0000;
+	box-sizing: border-box;;
+	color: #000000;
+	font-family: "Impact", sans-serifserif;
+	font-size:48px;
+	font-style: bold;
+	padding-top:100px;
+	position:static
+	margin:auto
+	text-align: center-top;
+	word-spacing:0.5em;
+	line-height: 24 px;
+	margin: auto;
+	padding-bottom:30 px;
+	
+	
+	}
+	h3 {
+background-image: url"http://media.philstar.com/images/the-philippine-star/lifestyle/ystyle/20150227/Follow-Us-3.jpg";
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+	border: 1px solid #FF0000;
+	box-sizing: border-box;
+	color: #000000;
+	font-family: "Impact", sans-serifserif;
+	font-size:48px;
+	font-style: bold;
+	padding-top:100px;
+	position:static
+	margin:auto
+	text-align: center-top;
+	word-spacing:0.5em;
+	line-height: 24 px;
+	margin: auto;
+	padding-bottom:30 px;
+	
+	
+	}
+	h4 {
+background-image: url"http://www.glewisassociates.com/wp-content/uploads/2015/10/Contact-Us.jpg";
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+	border: 1px solid #FF0000;
+	box-sizing: border-box;
+	color: #000000;
+	font-family: "Impact", sans-serifserif;
+	font-size:48px;
+	font-style: bold;
+	padding-top:100px;
+	position:static
+	margin:auto
+	text-align: center-top;
+	word-spacing:0.5em;
+	line-height: 24 px;
+	margin: auto;
+	padding-bottom:30 px;
+p {
+	background-color: #FFFF
+	border: 3px solid #FF0000;
+	border radius:100%;
+	color: #000000;
+	font-family: Impact,sans-serif;
+	font-size:30px;
+	font-weight: 100;
+	line-height: 2.5em;
+	text-align: center
+	width: 80%;
+	}
